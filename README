@@ -1,0 +1,8 @@
+Regexp#unon hack for Ruby-1.8.6.
+  Copyright 2011 Toshiyuki Suzumura.
+  Twitter: @suzumura_ss
+  Facebook: http://www.facebook.com/profile.php?id=100001982869012
+
+- Regexp#union に対して
+    Regexp.union(Array)
+  を実行可能にします。
